@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +6,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+/* 
+  addong background-color to the application */
+  background:#0B0B0B
+   /* repeating-linear-gradient(
+  45deg,
+  black,
+  black 10px,
+  #070606 10px,
+ #070606 20px);
+   */
 }
 
 code {
